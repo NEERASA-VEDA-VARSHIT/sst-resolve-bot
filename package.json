@@ -33,6 +33,7 @@
     "@types/axios": "^0.14.4",
     "@types/express": "^5.0.4",
     "@types/node": "^24.9.1",
+    "@types/nodemailer": "^6.4.15",
     "@types/pg": "^8.15.5",
     "drizzle-kit": "^0.31.5",
     "ts-node": "^10.9.2",

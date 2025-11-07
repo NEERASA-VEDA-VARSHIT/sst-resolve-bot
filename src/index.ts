@@ -40,6 +40,7 @@ type SessionStep =
   | "hostel_room_reason"
   | "college_location"
   | "college_issue_type"
+  | "college_mess_location"
   | "college_mess_meal"
   | "college_mess_date"
   | "college_mess_desc"

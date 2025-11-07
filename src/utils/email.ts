@@ -1,6 +1,6 @@
 import nodemailer from "nodemailer";
-import { db } from "../db/index.js";
-import { students } from "../db/students.js";
+import { db } from "../db/client.ts";
+import { students } from "../db/students.ts";
 import { eq } from "drizzle-orm";
 
 // Helper function to escape HTML to prevent XSS
